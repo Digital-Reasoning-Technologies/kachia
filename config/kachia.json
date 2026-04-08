@@ -87,6 +87,7 @@
     "headquarters": "Headquarters: Opp. General Hospital Kachia, Kachia LG, Kachia, Nigeria",
     "contact": [
       { "icon": "mapPin", "text": "Opp. General Hospital Kachia, Kachia LG, Kachia, Nigeria" },
+      { "icon": "phone", "text": "0813 796 0422" },
       { "icon": "mail", "text": "Kachialg@gmail.com" },
       { "icon": "clock", "text": "Always open" }
     ],
